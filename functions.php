@@ -26,6 +26,12 @@ require_once( 'library/class-foundationpress-comments.php' );
 /** Register all navigation menus */
 require_once( 'library/navigation.php' );
 
+/** Register all custom content types (Recipes, Posts -> Adventures) */
+require_once( 'library/content-types.php' );
+
+/** Register all custom taxonomies (Course, Occasion, Location) */
+require_once( 'library/taxonomies.php' );
+
 /** Add menu walkers for top-bar and off-canvas */
 require_once( 'library/class-foundationpress-top-bar-walker.php' );
 require_once( 'library/class-foundationpress-mobile-walker.php' );
