@@ -1,7 +1,7 @@
 <?php
 /**
- * Author: Ole Fredrik Lie
- * URL: http://olefredrik.com
+ * Author: Ole Fredrik Lie, Cole Bessee
+ * URL: http://olefredrik.com, http://cbessee.com
  *
  * FoundationPress functions and definitions
  *
